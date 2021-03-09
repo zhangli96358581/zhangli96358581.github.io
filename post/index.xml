@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Hugo Future Imperfect Slim</title>
+    <link>https://zhangli96358581.github.io/post/</link>
+    <description>Recent content in Post on Hugo Future Imperfect Slim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Mar 2021 20:52:36 +0800</lastBuildDate><atom:link href="https://zhangli96358581.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog_2</title>
+      <link>https://zhangli96358581.github.io/post/blog_2/</link>
+      <pubDate>Tue, 09 Mar 2021 20:52:36 +0800</pubDate>
+      
+      <guid>https://zhangli96358581.github.io/post/blog_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog_1</title>
+      <link>https://zhangli96358581.github.io/post/blog_1/</link>
+      <pubDate>Tue, 09 Mar 2021 20:00:36 +0800</pubDate>
+      
+      <guid>https://zhangli96358581.github.io/post/blog_1/</guid>
+      <description>A Fast and Flexible Static Site Generator built with love by bep, spf13 and friends in Go.
+Website | Forum | Documentation | Installation Guide | Contribution Guide | Twitter
+  
+Overview Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.</description>
+    </item>
+    
+  </channel>
+</rss>
